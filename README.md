@@ -8,7 +8,7 @@ Sempre curioso por tecnologia no geral, comecei na programação aos meus 17 ano
 
 - 🌱 Atualmente estou aprendendo **Ciência da Computação**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://kleberson.vercel.app/](https://kleberson.vercel. app/)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://kleberson.vercel.app/](https://kleberson.vercel.app/)
 
 - 📫 Como entrar em contato comigo **kleberson55@hotmail.com**
 
